@@ -1,0 +1,7 @@
+setup.py
+core/__init__.py
+core/core.py
+pymode.egg-info/PKG-INFO
+pymode.egg-info/SOURCES.txt
+pymode.egg-info/dependency_links.txt
+pymode.egg-info/top_level.txt

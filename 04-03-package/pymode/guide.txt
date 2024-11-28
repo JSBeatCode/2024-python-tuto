@@ -1,0 +1,13 @@
+1. 패키지 코딩
+2. cd pymode
+3. pip install .
+4. 실행: test_script.py 
+5. https://pypi.org/ 에 pymode 를 최상단으로 하고 업로드
+
+
+6. 패키지 빌드: pip install setuptools wheel
+7. 패키지 setup.py 파일이 있는 경로에서 다음과 같이 입력합니다.: python setup.py sdist bdist_wheel
+
+
+8. 빌드된 파일을 pypi에 업로드: pip install twine
+9. pypi의 사용자 이름과 비밀번호를 입력하면 정상적으로 파일이 업로드 됩니다.: python -m twine upload dist/*
