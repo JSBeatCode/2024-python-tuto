@@ -36,7 +36,7 @@ def foo4(a,b,c):
     print(c)
     
 data=[1,2,3]
-foo(data[0],data[1],data[2])
+foo4(data[0],data[1],data[2])
 
 print("----------")
 
