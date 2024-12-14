@@ -3,7 +3,7 @@
 
 import argparse  # argparse 모듈을 가져옵니다. 명령줄 인자를 파싱하기 위해 사용됩니다.
 
-# ArgumentParser 객체를 생성합니다. 이 객체는 명령줄 옵션과 인자를 처리합니다.
+0# ArgumentParser 객체를 생성합니다. 이 객체는 명령줄 옵션과 인자를 처리합니다.
 parser = argparse.ArgumentParser()
 
 # 명령줄 인자 '-d' 또는 '--decimal'을 추가합니다.

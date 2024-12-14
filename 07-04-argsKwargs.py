@@ -1,4 +1,3 @@
-
 # 1. *args
 # 설명: *args는 **위치 인자(positional arguments)**를 여러 개 받을 때 사용합니다.
 # *args는 튜플 형태로 전달됩니다.
